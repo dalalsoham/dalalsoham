@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **React Base Product**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **React & Angular**
 
-- 💬 Ask me about **Web Development , DSA**
+- 💬 Ask me about **Web Development and Web security**
 
 - 📫 How to reach me **barson0habra@gmail.com**
 
