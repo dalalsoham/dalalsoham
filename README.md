@@ -11,7 +11,7 @@
 - 💬 Ask me about **Web Development and Web security**
 
 - 📫 How to reach me **barson0habra@gmail.com**
-- MY Discord id : mr_sd_jack_003#1564
+- MY Discord id : **mr_sd_jack_003#1564**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
