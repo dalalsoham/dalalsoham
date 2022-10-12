@@ -12,6 +12,7 @@
 
 - 📫 How to reach me **barson0habra@gmail.com**
 - MY Discord id : **mr_sd_jack_003#1564**
+<a href="https://t.me/mr_sd_jack" target="blank"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
