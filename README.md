@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soham Dalal</h1>
 <h3 align="center">A passionate frontend Web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2022/01/hacker-gif-10.gif"/>
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47n9yuv5ajhjlpyvfqr48k31k66p16dxkajb8cxzng&rid=giphy.gif&ct=g"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dalalsoham&label=Profile%20views&color=0e75b6&style=flat" alt="dalalsoham" /> </p>
 
