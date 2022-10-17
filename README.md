@@ -16,6 +16,7 @@
 
 - <p style="font-size:10"><a href="https://t.me/mr_sd_jack" target="blank"><i><u>Telegram</u></i></a><p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mr_sd_jack_003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_sd_jack_003" height="30" width="40" /></a>
