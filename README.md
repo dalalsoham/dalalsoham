@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soham Dalal</h1>
 <h3 align="center">A passionate frontend Web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://static.vecteezy.com/system/resources/previews/004/865/921/original/programmer-people-concept-use-laptop-and-programming-code-program-icon-spreading-with-modern-flat-style-free-vector.jpg"/>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ec/c3/88/ecc3882e29654a291f8824494979145b.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dalalsoham&label=Profile%20views&color=0e75b6&style=flat" alt="dalalsoham" /> </p>
 
