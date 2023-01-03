@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dalalsoham&label=Profile%20views&color=0e75b6&style=flat" alt="dalalsoham" /> </p>
 
-- 🔭 I’m currently working on **React Base Product And Game Poject using HTML,CSS and JAVASCRIPT**
+- 🔭 I’m currently working on **Game Poject using HTML,CSS and JAVASCRIPT**
 
 - 🌱 I’m currently learning **React & Angular**
 
