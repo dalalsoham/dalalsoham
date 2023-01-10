@@ -14,9 +14,11 @@
 
 - 📫 How to reach me **barson0habra@gmail.com**
 
-- MY Discord id : **mr_sd_jack_003#1564**
+<!-- - MY Discord id : **mr_sd_jack_003#1564** -->
 
-- <p style="font-size:10"><a href="https://t.me/mr_sd_jack" target="blank"><i><u>Telegram</u></i></a><p>
+### Reach me out at: [Twitter](https://twitter.com/mr_sd_jack_003) [Telegram](https://t.me/mr_sd_jack)
+
+<!-- - <p style="font-size:10"><a href="https://t.me/mr_sd_jack" target="blank"><i><u>Telegram</u></i></a><p> -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- <h3 align="left">Connect with me:</h3>
