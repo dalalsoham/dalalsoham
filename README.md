@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Web Development and Web security**
 
-- ⚡ Fun fact: I watch a lot of anime specially love anime is my choice.
+- ⚡ Fun fact: I watch a lot of anime specially *love* anime is my choice.
 
 - 📫 How to reach me **barson0habra@gmail.com**
 
