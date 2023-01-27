@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Web Development and Web security**
+- 💬 Ask me about **Web Development**
 
 - ⚡ Fun fact: I watch a lot of anime specially *love* anime is my choice.
 
