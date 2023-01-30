@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Open-source contribution**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Reactjs**
 
 - 💬 Ask me about **Web Development**
 
