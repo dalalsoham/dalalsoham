@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soham Dalal</h1>
 <h3 align="center">A passionate frontend Web developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ec/c3/88/ecc3882e29654a291f8824494979145b.gif"/>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/76547134/122723606-c9efed80-d290-11eb-9ed8-ecbf5eeba812.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dalalsoham&label=Profile%20views&color=0e75b6&style=flat" alt="dalalsoham" /> </p>
 
