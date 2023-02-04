@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development and Web Design**
 
-- ⚡ Fun fact: I watch a lot of anime specially *love* anime is my choice.
+- ⚡ Fun fact: I watch a lot of anime specially *love* anime is my fav.
 
 - 📫 How to reach me **barson0habra@gmail.com**
 
