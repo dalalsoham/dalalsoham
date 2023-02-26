@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Web Development and Web Design**
 
-- ⚡ Fun fact: I watch a lot of anime specially *love* anime is my fav.
+- ⚡ Fun fact: I watch a lot of anime and love to listen lofi music
 
 - 📫 How to reach me **barson0habra@gmail.com**
 
