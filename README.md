@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">H 👋</h1>
 <h3 align="center">I'm Soham Dalal, a web developer with a passion for creating innovative and engaging web experiences. With 2 years of experience in the industry, I've developed a strong skill set in front-end development.I have a strong foundation in HTML, CSS, and JavaScript, which allows me to create responsive and intuitive front-end designs that are optimized for speed and accessibility. I'm also skilled in back-end development, with experience working with databases like MySQL, PostgreSQL, and MongoDB.I'm an experienced problem solver who enjoys finding creative solutions to complex technical challenges. I'm always up for a new challenge and enjoy tackling complex projects that require outside-of-the-box thinking.In addition to my technical skills, I have a keen eye for design and enjoy working closely with clients to create custom user interfaces that are both functional and aesthetically pleasing. I'm also skilled in developing responsive web designs that are optimized for mobile devices, ensuring that users can access content on the go.</h3>
 
 
