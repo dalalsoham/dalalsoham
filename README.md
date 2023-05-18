@@ -17,7 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dalalsoham&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📕 My Latest Blogs
-[5 JavaScript Concepts every React developers should know🧑‍💻](https://medium.com/@barson0habra/5-javascript-concepts-every-react-developers-should-know-557fe6ad5aa8)
+• [5 JavaScript Concepts every React developers should know🧑‍💻](https://medium.com/@barson0habra/5-javascript-concepts-every-react-developers-should-know-557fe6ad5aa8)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dalalsoham&theme=radical&no-frame=false&no-bg=true&margin-w=4)
