@@ -14,6 +14,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dalalsoham&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dalalsoham&theme=radical&hide_border=false)<br/>
+![](https://api.githubtrends.io/user/svg/dalalsoham/langs?time_range=one_year&loc_metric=changed&compact=True&theme=synthwaves)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dalalsoham&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
 
 ## 📕 My Latest Blogs
