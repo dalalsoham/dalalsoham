@@ -18,6 +18,7 @@
 <!--![](https://api.githubtrends.io/user/svg/dalalsoham/langs?time_range=one_year&loc_metric=changed&compact=True&theme=synthwaves)-->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dalalsoham&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
 
+<!-- 
 ## 📕 My Latest Blogs
 • [5 JavaScript Concepts every React developers should know🧑‍💻](https://medium.com/@barson0habra/5-javascript-concepts-every-react-developers-should-know-557fe6ad5aa8)
 
@@ -32,7 +33,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
+-->
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=dalalsoham&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
