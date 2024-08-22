@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on **Open-source contribution**<br>🌱 I’m currently learning **Solidity**<br>💬 Ask me about **Web Development and Web Design**<br>⚡ Fun fact **I watch a lot of anime**<br>📫 How to reach me barson0habra@gmail.com <br>🧑‍💻 My [Blogging Website](https://techwire-news-blog.blogspot.com/)
+🔭 I’m currently working on **Open-source contribution**<br>🌱 I’m currently learning **Solidity**<br>💬 Ask me about **Web Development and Web Design**<br>⚡ Fun fact **I watch a lot of anime**<br>📫 How to reach me soham.dalal.003@gmail.com <br>🧑‍💻 My [Blogging Website](https://techwire-news-blog.blogspot.com/)
 
 
 <!-- ## 🌐 Socials:
