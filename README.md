@@ -1,5 +1,5 @@
 <h1 align="center">Hello!!</h1>
-<h3 align="center">I'm Soham Dalal, a detail-oriented front-end developer with 2 years of experience and a proven track record in freelance web development. Proficient in React.js, creating dynamic user interfaces with effective state management and lifecycle methods. Demonstrates strong project management skills, ensuring timely delivery and adherence to client requirements. Maintains comprehensive documentation for seamless knowledge transfer and future maintenance. Versatile in multiple technology stacks, contributing to efficient product development.</h3>
+<h3 align="center">I am a developer with experience working on web based applications and software systems, involved in building and maintaining structured, scalable solutions. I have a solid understanding of programming fundamentals, including data handling, control flow, and modular code design. Familiar with API integration using REST principles, handling request response cycles, and working with databases for data storage, retrieval, and basic optimization. Comfortable collaborating across development workflows, debugging issues, and continuously improving application performance and reliability.</h3>
 
 
 # 💫 About Me:
